@@ -12,6 +12,6 @@ BOT TELEGRAM:
 6) Enter in @userinfobot and copy your Telegram User ID
 
 VARIABLES:
-TOKEN ==> Token given to your bot
-ID ==> Your Telegram User ID
+1) TOKEN ==> Token given to your bot
+2) ID ==> Your Telegram User ID
 
