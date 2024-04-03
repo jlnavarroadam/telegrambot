@@ -15,3 +15,14 @@ VARIABLES:
 1) TOKEN ==> Token given to your bot
 2) ID ==> Your Telegram User ID
 
+HOW TO INSTALL (AS ROOT):
+1) cd /opt
+2) git clone --depth 1 https://github.com/jlnavarroadam/telegrambot.git
+3) cd telegrambot
+4) chmod 770 bot.sh
+(don't let any others access to you bot.sh script content)
+
+HOW TO USE:
+1) Sending messages: /opt/telegrambot/bot.sh "Hello world"  or  /opt/telegrambot/bot.sh "$(who)"
+2) Sending files: /opt/telegrambot/bot.sh "/opt/telegrambot/README.md"
+
