@@ -1,5 +1,5 @@
 # telegrambot
-This is a telegram bot written in Bash for any Linux server
+This is a Telegram bot written in Bash for any Linux server
 
 All you need is to create a bot in Telegram with @BotFather, and put your token and ID on the script to receive your messages or files directly to Telegram.
 
